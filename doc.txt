@@ -1,0 +1,15 @@
+Fonts
+    (inconsolata regular)
+    playfairdisplay regular, bold
+    ubuntu light
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+section - 7
+
+lifestyle   photodiary  music   travel
+
+black   #000000
+ash     #626262
+ubuntu light    #B3AC9D
